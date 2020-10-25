@@ -1,0 +1,7 @@
+hname=User1
+jname=NONE
+hhp=90
+jhp=NONE
+hdmg=3
+jdmg=NONE
+turn=2

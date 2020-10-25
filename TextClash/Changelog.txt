@@ -1,0 +1,30 @@
+1.2_indev
+
+-fixed issue that would cause an npc to deal 32,00000 damage to the player
+-fixed several crashes
+-fixed bank not working correctly
+-changed shop prices
+-added mod support
+-started work on multiplayer for non-classic edition
+-fixed money/xp duplication bug
+-fixed an issue that could cause players to loose save data
+apon exiting the classic edition of the game
+
+
+1.1_indev
+
+-fixed an issue that would cause the menu to lag
+-fixed npc dialogue not triggering apon loading into a shop in the menu
+-added player npc type (this is so that i can add multiplayer support in the future)
+-removed the Max's Shop menu option
+-save data is now no longer incrypted so you may now freely edit your save file(s)
+-added an option in the settings to change the game's colors
+-the game's source code is now public so people
+may create their own versions of the game!
+-added classic edition menu option
+
+1.0_indev
+
+-initial release
+
+:)
