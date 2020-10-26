@@ -1,15 +1,15 @@
 Hello!
 
-thank you for downloading the collection!
+thank you for downloading my rpg!!!
 i hope you enjoy!!
 
 from, CodePrompt89
 
-(if you want to play the mmorpg look for either 
-"TextClash ~ Alpha Development" or "TextClash ~ Development Release 1" <--- (reccomended)
+(if you want to play the rpg look for either 
+"TextClash ~ Alpha Development" or "TextClash ~ Development Release" <--- (reccomended)
 
 TextClash Includes save files
-so i made default level 1 characters for the mmorpg as an example......
+so i made default level 1 characters for the rpg as an example......
 but if you wish to create your own characters feel free to do so!!   :) 
 (User1.bat is for the normal singleplayer and User1.plr is for the classic edition singleplayer/multiplayer)
 
