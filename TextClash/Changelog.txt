@@ -7,14 +7,14 @@
 -added mod support
 -started work on multiplayer for non-classic edition
 -fixed money/xp duplication bug
--fixed an issue that could cause players to loose save data
-apon exiting the classic edition of the game
+-fixed an issue that could cause players to lose save data
+upon exiting the classic edition of the game
 
 
 1.1_indev
 
 -fixed an issue that would cause the menu to lag
--fixed npc dialogue not triggering apon loading into a shop in the menu
+-fixed npc dialogue not triggering upon loading into a shop in the menu
 -added player npc type (this is so that i can add multiplayer support in the future)
 -removed the Max's Shop menu option
 -save data is now no longer incrypted so you may now freely edit your save file(s)
